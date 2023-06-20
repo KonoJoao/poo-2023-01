@@ -1,4 +1,4 @@
-package com.github.KonoJoao.poo.t07.escola;
+package com.github.konojoao.poo.t07.escola;
 
 import com.github.kyriosdata.poo.t07.ensino.Disciplina;
 

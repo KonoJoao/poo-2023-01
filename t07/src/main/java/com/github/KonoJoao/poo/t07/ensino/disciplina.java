@@ -1,4 +1,4 @@
-package com.github.KonoJoao.poo.t07.ensino;
+package com.github.konojoao.poo.t07.ensino;
 
 public class Disciplina {
 }
