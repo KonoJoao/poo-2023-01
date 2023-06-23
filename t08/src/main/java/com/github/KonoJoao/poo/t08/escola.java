@@ -1,12 +1,12 @@
 package com.github.konojoao.poo.t08;
 
 class Endereco{
-    String logradouro;
-    String cep;
-    String bairro;
+    private string logradouro;
+    private string cep;
+    private string bairro;
 }
 
 class Escola{
-    Endereco endereco;
-    int capacidadeAlunos;
+    private Endereco endereco;
+     private int capacidadeAlunos;
 }
