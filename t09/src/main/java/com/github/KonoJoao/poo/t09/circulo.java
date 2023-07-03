@@ -1,6 +1,6 @@
 package java.com.github.konojoao.poo.t09;
 
-public class Circulo{
+class Circulo{
     private float x;
     private float y;
     private float raio;

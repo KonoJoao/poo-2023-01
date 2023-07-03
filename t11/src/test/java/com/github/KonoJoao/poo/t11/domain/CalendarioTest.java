@@ -4,7 +4,7 @@
  * Creative Commons Attribution 4.0 International License.
  */
 
-package com.github.konojoao.poo.t08.domain;
+package com.github.konojoao.poo.t11.domain;
 
 import org.junit.jupiter.api.Test;
 

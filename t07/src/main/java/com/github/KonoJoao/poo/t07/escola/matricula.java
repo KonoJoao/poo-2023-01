@@ -1,8 +1,8 @@
 package com.github.konojoao.poo.t07.escola;
 
-import com.github.kyriosdata.poo.t07.ensino.Disciplina;
+import com.github.kyriosdata.poo.t07.ensino;
 
-public class Matricula {
+class Matricula {
 
     private Disciplina disciplina;
 }
