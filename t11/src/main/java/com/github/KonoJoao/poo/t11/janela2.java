@@ -1,6 +1,6 @@
 package com.github.konojoao.poo.t11;
 
-class Janela{
+class Janela2{
     private float area;
     private Vidro areaVidro;
 

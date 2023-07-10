@@ -24,7 +24,7 @@ class Area{
 
 }
 
-public class Casa{
+class Casa{
     private Garagem garagem;
     private Quarto quarto;
     private Sala sala;

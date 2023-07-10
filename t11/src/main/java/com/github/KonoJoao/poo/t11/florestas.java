@@ -22,23 +22,23 @@ class Arvore{
     private int quantidadeFlorestas=0;
 
         public void Arvore(){
-        this.folhas[this.quantidadefolhas] = new Folha();
+        this.folhas[this.quantidadeFolhas] = new Folha();
         this.quantidadeFolhas++;
     }
         public void adicionarFolha(){
-        this.folhas[this.quantidadefolhas] = new Folha();
+        this.folhas[this.quantidadeFolhas] = new Folha();
         this.quantidadeFolhas++;
     }
 
         public void adicionarFloresta(){
         this.florestas[this.quantidadeFlorestas] = new Floresta();
-        this.quantidadeFlorestass++;
+        this.quantidadeFlorestas++;
     }
 
         public void derrubarArvore(){
         do{
-        this.folhas[this.quantidadefolhas] = null;
-        }while(this.quantidadeFolhas--);
+        this.folhas[this.quantidadeFolhas] = null;
+        }while(this.quantidadeFolhas!=0);
     }
 }
 
