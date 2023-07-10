@@ -1,0 +1,1 @@
+SE existem bibliotecas que incluem essas estruturas de dados. Existem motivos para fazê-las na mão?
