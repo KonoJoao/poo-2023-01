@@ -1,7 +1,9 @@
 package com.github.konojoao.poo.t07;
 
+import java.util.ArrayList;
+
 public class Uniao {
-    private ArrayList filhos;
+    private ArrayList<Pesssoa> filhos;
     private Pessoa[] parceiros;
 
     public void novoFilho(Pessoa P){

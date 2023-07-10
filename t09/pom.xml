@@ -11,7 +11,7 @@
         <maven.compiler.target>${java.version}</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
-        <project.mainClass>com.github.kyriosdata.poo.t07.application.console.ProgramaCalendario</project.mainClass>
+        <project.mainClass>com.github.kyriosdata.poo.t09.application.console.ProgramaCalendario</project.mainClass>
 
         <tools.dir>${project.basedir}/tools</tools.dir>
 
