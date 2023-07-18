@@ -1,9 +1,9 @@
 package java.com.github.konojoao.poo.t09;
 
-public class Elefante extends Mamifero{
+class Elefante extends Mamifero{
 
 }
 
-public class Mamifero{
+class Mamifero{
 
 }

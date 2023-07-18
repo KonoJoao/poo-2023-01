@@ -4,6 +4,6 @@ public class Usuario extends Pessoa{
 
 }
 
-public class Pessoa{
+class Pessoa{
 
 }

@@ -1,20 +1,21 @@
 package java.com.github.konojoao.poo.t09;
 
-public class Circulo extends Ponto{
+class Circulo extends Ponto{
     private Ponto centro;
     private float raio;
 
-    @override;
-    public trasladar(float x, float y){
-
+        @Override
+        public void trasladar(float x, float y){
+        System.out.println("Trasladando Circulo...");
     }
 }
 
-public class Ponto{
+class Ponto{
     
     private float x;
     private float y;
 
-    public trasladar(float x, float y){
+    public void trasladar(float x, float y){
+        System.out.println("Trasladando...");
     }
 }

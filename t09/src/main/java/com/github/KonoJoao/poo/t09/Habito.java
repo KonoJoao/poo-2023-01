@@ -1,11 +1,11 @@
 package java.com.github.konojoao.poo.t09;
 
-public class Pessoa{
+class Pessoa{
     private string nome;
     private int idade;
     private Habito[] habitos;
 }
 
-public class Habito {
+class Habito {
       private string descricao;
 }

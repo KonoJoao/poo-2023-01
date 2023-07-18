@@ -1,17 +1,16 @@
 package java.com.github.konojoao.poo.t09;
 
-public class Caixeiro{
+class Caixeiro{
  private Viagem[] viagens;
 }
 
-public class Viagem{
+class Viagem{
     private Cidade[] cidades;
 }
-
-public class Cidade{
+class Cidade{
     private Armazém[] armazéns;
 }
 
-public class Armazém{
+class Armazém{
 }
 
