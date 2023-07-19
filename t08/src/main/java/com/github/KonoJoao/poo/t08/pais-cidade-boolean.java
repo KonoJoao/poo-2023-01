@@ -1,13 +1,13 @@
 package com.github.konojoao.poo.t08;
 
-class Cidade{
-    Pais origem;
-    boolean capital;
+class CidadeCapitalBooleana{
+   private PaisComUmBooleanoCapital origem;
+    private boolean capital;
 
 }
 
-class Pais{
-    Cidade capital;
+class PaisComUmBooleanoCapital{
+   private CidadeCapitalBooleana capital;
 }
 
 

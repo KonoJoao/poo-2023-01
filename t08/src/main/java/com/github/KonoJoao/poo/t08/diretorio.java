@@ -1,9 +1,9 @@
 package com.github.konojoao.poo.t08;
 
-public class Diretorio{
-    Usuario dono;
+class Diretorio{
+    private Usuario dono;
 }
 
-public class Usuario{
-   Diretorio autorizado;
+class Usuario{
+   private Diretorio autorizado;
 }

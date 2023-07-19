@@ -1,16 +1,16 @@
 package com.github.konojoao.poo.t08;
 
-public class Permissao{
+class Permissao{
 }
 
-public class Usuario{
+class UsuarioDeGrupo{
 }
 
-public class Arquivo{
+class Arquivo{
 private Permissao permissao;
 }
 
-public class Grupo{
+class Grupo{
 private Permissao permissao;
 private Usuario[] usuarios;
 }

@@ -1,9 +1,9 @@
 package com.github.konojoao.poo.t08;
 
-public class Ponto{
+class Ponto{
 
 }
 
-public class Curva extends Ponto{
+class Curva extends Ponto{
     private Ponto[] ponto;
 }

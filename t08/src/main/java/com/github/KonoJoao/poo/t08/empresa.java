@@ -1,10 +1,9 @@
 package com.github.konojoao.poo.t08;
 
-public class Pessoa{
+class PessoaEmpresa{
     public Empresa empregador;
 }
-
-public class Empresa{
+class EmpresaComEmpregado{
     public Pessoa empregado;
 
 }

@@ -1,9 +1,9 @@
 package com.github.konojoao.poo.t08;
 
-public class Pessoa{
+class PessoaEmpregada{
 }
 
-public class Emprego{
+class Emprego{
     private Pessoa empregado;
     private Empresa empregador;
     private float salario;
@@ -11,5 +11,5 @@ public class Emprego{
     private int fim;
 }
 
-public class Empresa{
+class Empresa{
 }
