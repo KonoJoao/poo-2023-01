@@ -1,7 +1,9 @@
 package com.github.konojoao.poo.t07;
 
-class Devoto{
-    public Devoto (Religiao r){
-        r.novoFiel(this);
+
+public class Devoto {
+
+    public Devoto(Religiao religiao) {
+        religiao.novoDevoto(this);
     }
 }

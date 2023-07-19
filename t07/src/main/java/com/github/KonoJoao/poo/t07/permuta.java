@@ -1,22 +1,20 @@
 package com.github.konojoao.poo.t07;
 
-public class Permuta{
-    public static void Permutacao(String p, String S){
-        if (S.length() == 1){
-            System.out.println(p+s)
-        } else {
-            String Slinha;
-            String pLinha;
 
-            for(int i =0; i<S.length();i++){
-                Slinha = S.substring(0,i) + S.substring(+1)
-                pLinha = p + S.charAt(i);
-                Permutacao(pLinha, Slinha);
-            
+public class Permuta {
+
+    public static void permuta(String prefixo, String sequencia) {
+        if (sequencia.length() == 0) {
+            System.out.println(prefixo);
+        } else {
+            for (int i = 0; i < sequencia.length(); i++) {
+                permuta(prefixo + sequencia.charAt(i),
+                        sequencia.substring(0, i) + sequencia.substring(i + 1));
             }
         }
     }
-    public static void main(String[] args){
-        Permutacao(new String(), args[0]);
+
+    public static void main(String[] args) {
+        permuta("", "abc");
     }
 }

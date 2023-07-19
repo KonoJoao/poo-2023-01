@@ -1,6 +1,6 @@
 package com.github.konojoao.poo.t07.escola;
 
-import com.github.kyriosdata.poo.t07.ensino;
+import com.github.konojoao.poo.t07.ensino.Disciplina;
 
 class Matricula {
 

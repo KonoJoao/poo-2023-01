@@ -1,20 +1,19 @@
 package com.github.konojoao.poo.t07;
 
-import java.util.ArrayList;
+import java.util.List;
+import java.util.Objects;
 
 public class Uniao {
-    private ArrayList<Pesssoa> filhos;
+    private List<Pessoa> filhos;
     private Pessoa[] parceiros;
 
-    public void novoFilho(Pessoa P){
-        filhos.add(p);
+    public void novoFilho(Pessoa filho) {
+        filhos.add(filho);
     }
 
-    public Uniao(Pessoa a, Pessoa b){
-        parceiros[0] = new Pessoa();
-        parceiros[0] = a;
-        parceiros[1] = new Pessoa();
-        parceiros[1] = b;
+    public Uniao(Pessoa a, Pessoa b) {
+        Objects.requireNonNull(a);
+        Objects.requireNonNull(b);
+        parceiros = new Pessoa[] { a, b };
     }
 }
-

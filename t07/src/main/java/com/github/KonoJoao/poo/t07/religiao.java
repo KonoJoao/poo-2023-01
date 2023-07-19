@@ -1,15 +1,11 @@
 package com.github.konojoao.poo.t07;
 
+import java.util.List;
+
 public class Religiao {
-    private ArraList devotos;
+    private List<Devoto> devotos;
 
-    public void novoFiel(Devoto d){
-        devoto.add(d);
-    }
-}
-
-public class Devoto(){
-    public Devoto (Religiao r){
-        r.novoFiel(this);
+    public void novoDevoto(Devoto devoto) {
+        devotos.add(devoto);
     }
 }
