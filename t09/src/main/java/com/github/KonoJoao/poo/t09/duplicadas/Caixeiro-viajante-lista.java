@@ -1,4 +1,4 @@
-package java.com.github.konojoao.poo.t09;
+package java.com.github.konojoao.poo.t09.caixeirolista;
 
 class Caixeiro{
  private Viagem[] viagens;
