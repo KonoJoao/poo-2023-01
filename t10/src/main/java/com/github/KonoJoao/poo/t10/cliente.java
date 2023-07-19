@@ -6,7 +6,7 @@ class Cliente{
     private Bicicleta bicicleta;
 
     public void cadastrarCliente(){
-        cliente = new Cliente();
+       Cliente cliente = new Cliente();
         this.cadastrarCliente("João", "Bicicleta com problema no freio", "Caloi", "Azul", 500);
     }
 
