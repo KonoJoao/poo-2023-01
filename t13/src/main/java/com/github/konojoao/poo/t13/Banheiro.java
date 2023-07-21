@@ -1,4 +1,4 @@
-package com.github.konojoao.poo.t13;
+package com.github.konojoao.poo.t13.subclasses;
 
 public class Banheiro extends Comodo{
     public void darDescarga(){
