@@ -5,74 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8004376-4b00-4688-89df-7c0e21520dce" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/poo-2023-01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diretorioBase/src/test/java/com/github/KonoJoao/poo/t/domain/CalendarioTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/diretorioBase/src/test/java/com/github/konojoao/poo/t/domain/CalendarioTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diretorioBase/src/test/java/com/github/KonoJoao/poo/t/domain/NumeroUtilsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/diretorioBase/src/test/java/com/github/konojoao/poo/t/domain/NumeroUtilsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t07/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/t07/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t07/src/main/java/com/github/KonoJoao/poo/t07/pacotes/UML1.java" beforeDir="false" afterPath="$PROJECT_DIR$/t07/src/main/java/com/github/KonoJoao/poo/t07/pacotes/UML1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t07/src/main/java/com/github/KonoJoao/poo/t07/pacotes/UML2.java" beforeDir="false" afterPath="$PROJECT_DIR$/t07/src/main/java/com/github/KonoJoao/poo/t07/pacotes/UML2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t07/src/main/java/com/github/KonoJoao/poo/t07/pacotes/UML3.java" beforeDir="false" afterPath="$PROJECT_DIR$/t07/src/main/java/com/github/KonoJoao/poo/t07/pacotes/UML3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t07/src/main/java/com/github/KonoJoao/poo/t07/pacotes/UML4.java" beforeDir="false" afterPath="$PROJECT_DIR$/t07/src/main/java/com/github/KonoJoao/poo/t07/pacotes/UML4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t07/src/main/java/com/github/KonoJoao/poo/t07/pacotes/UML5.java" beforeDir="false" afterPath="$PROJECT_DIR$/t07/src/main/java/com/github/KonoJoao/poo/t07/pacotes/UML5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t07/src/main/java/com/github/KonoJoao/poo/t07/pacotes/UML6.java" beforeDir="false" afterPath="$PROJECT_DIR$/t07/src/main/java/com/github/KonoJoao/poo/t07/pacotes/UML6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t07/src/main/java/com/github/KonoJoao/poo/t07/pacotes/UML7.java" beforeDir="false" afterPath="$PROJECT_DIR$/t07/src/main/java/com/github/KonoJoao/poo/t07/pacotes/UML7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t07/src/main/java/com/github/KonoJoao/poo/t07/permuta.java" beforeDir="false" afterPath="$PROJECT_DIR$/t07/src/main/java/com/github/KonoJoao/poo/t07/permuta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t07/src/main/java/com/github/KonoJoao/poo/t07/religiao.java" beforeDir="false" afterPath="$PROJECT_DIR$/t07/src/main/java/com/github/KonoJoao/poo/t07/religiao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t07/src/test/java/com/github/KonoJoao/poo/t07/domain/CalendarioTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/t07/src/test/java/com/github/konojoao/poo/t07/domain/CalendarioTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t07/src/test/java/com/github/KonoJoao/poo/t07/domain/NumeroUtilsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/t07/src/test/java/com/github/konojoao/poo/t07/domain/NumeroUtilsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t08/src/main/java/com/github/KonoJoao/poo/t08/curva.java" beforeDir="false" afterPath="$PROJECT_DIR$/t08/src/main/java/com/github/konojoao/poo/t08/curva.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t08/src/main/java/com/github/KonoJoao/poo/t08/diretorio.java" beforeDir="false" afterPath="$PROJECT_DIR$/t08/src/main/java/com/github/konojoao/poo/t08/diretorio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t08/src/main/java/com/github/KonoJoao/poo/t08/disciplina.java" beforeDir="false" afterPath="$PROJECT_DIR$/t08/src/main/java/com/github/konojoao/poo/t08/disciplina.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t08/src/main/java/com/github/KonoJoao/poo/t08/emprego.java" beforeDir="false" afterPath="$PROJECT_DIR$/t08/src/main/java/com/github/konojoao/poo/t08/emprego.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t08/src/main/java/com/github/KonoJoao/poo/t08/empresa.java" beforeDir="false" afterPath="$PROJECT_DIR$/t08/src/main/java/com/github/konojoao/poo/t08/empresa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t08/src/main/java/com/github/KonoJoao/poo/t08/escola.java" beforeDir="false" afterPath="$PROJECT_DIR$/t08/src/main/java/com/github/konojoao/poo/t08/escola.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t08/src/main/java/com/github/KonoJoao/poo/t08/menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/t08/src/main/java/com/github/konojoao/poo/t08/menu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t08/src/main/java/com/github/KonoJoao/poo/t08/pais-cidade-boolean.java" beforeDir="false" afterPath="$PROJECT_DIR$/t08/src/main/java/com/github/konojoao/poo/t08/pais-cidade-boolean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t08/src/main/java/com/github/KonoJoao/poo/t08/pais-cidade.java" beforeDir="false" afterPath="$PROJECT_DIR$/t08/src/main/java/com/github/konojoao/poo/t08/pais-cidade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t08/src/main/java/com/github/KonoJoao/poo/t08/pais-cidades-boolean.java" beforeDir="false" afterPath="$PROJECT_DIR$/t08/src/main/java/com/github/konojoao/poo/t08/pais-cidades-boolean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t08/src/main/java/com/github/KonoJoao/poo/t08/permissao.java" beforeDir="false" afterPath="$PROJECT_DIR$/t08/src/main/java/com/github/konojoao/poo/t08/permissao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t08/src/main/java/com/github/KonoJoao/poo/t08/projeto-pessoas.java" beforeDir="false" afterPath="$PROJECT_DIR$/t08/src/main/java/com/github/konojoao/poo/t08/projeto-pessoas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t08/src/main/java/com/github/KonoJoao/poo/t08/projeto.java" beforeDir="false" afterPath="$PROJECT_DIR$/t08/src/main/java/com/github/konojoao/poo/t08/projeto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t08/src/main/java/com/github/KonoJoao/poo/t08/texto.java" beforeDir="false" afterPath="$PROJECT_DIR$/t08/src/main/java/com/github/konojoao/poo/t08/texto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t08/src/test/java/com/github/KonoJoao/poo/t08/domain/CalendarioTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/t08/src/test/java/com/github/konojoao/poo/t08/domain/CalendarioTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t08/src/test/java/com/github/KonoJoao/poo/t08/domain/NumeroUtilsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/t08/src/test/java/com/github/konojoao/poo/t08/domain/NumeroUtilsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t09/src/main/java/com/github/KonoJoao/poo/t09/Caixeiro viajante.java" beforeDir="false" afterPath="$PROJECT_DIR$/t09/src/main/java/com/github/konojoao/poo/t09/Caixeiro viajante.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t09/src/main/java/com/github/KonoJoao/poo/t09/Caixeiro-viajante-lista.java" beforeDir="false" afterPath="$PROJECT_DIR$/t09/src/main/java/com/github/konojoao/poo/t09/Caixeiro-viajante-lista.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t09/src/main/java/com/github/KonoJoao/poo/t09/Habito.java" beforeDir="false" afterPath="$PROJECT_DIR$/t09/src/main/java/com/github/konojoao/poo/t09/Habito.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t09/src/main/java/com/github/KonoJoao/poo/t09/circulo-ponto.java" beforeDir="false" afterPath="$PROJECT_DIR$/t09/src/main/java/com/github/konojoao/poo/t09/circulo-ponto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t09/src/main/java/com/github/KonoJoao/poo/t09/circulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/t09/src/main/java/com/github/konojoao/poo/t09/circulo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t09/src/main/java/com/github/KonoJoao/poo/t09/conteiner.java" beforeDir="false" afterPath="$PROJECT_DIR$/t09/src/main/java/com/github/konojoao/poo/t09/conteiner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t09/src/main/java/com/github/KonoJoao/poo/t09/mamifero.java" beforeDir="false" afterPath="$PROJECT_DIR$/t09/src/main/java/com/github/konojoao/poo/t09/mamifero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t09/src/main/java/com/github/KonoJoao/poo/t09/transacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/t09/src/main/java/com/github/konojoao/poo/t09/transacao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t09/src/main/java/com/github/KonoJoao/poo/t09/usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/t09/src/main/java/com/github/konojoao/poo/t09/usuario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t09/src/test/java/com/github/KonoJoao/poo/t09/domain/CalendarioTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/t09/src/test/java/com/github/konojoao/poo/t09/domain/CalendarioTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t09/src/test/java/com/github/KonoJoao/poo/t09/domain/NumeroUtilsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/t09/src/test/java/com/github/konojoao/poo/t09/domain/NumeroUtilsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t10/src/main/java/com/github/KonoJoao/poo/t10/cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/t10/src/main/java/com/github/konojoao/poo/t10/cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t10/src/main/java/com/github/KonoJoao/poo/t10/uml.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/t10/src/main/java/com/github/konojoao/poo/t10/uml.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t10/src/test/java/com/github/KonoJoao/poo/t10/domain/CalendarioTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/t10/src/test/java/com/github/konojoao/poo/t10/domain/CalendarioTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t10/src/test/java/com/github/KonoJoao/poo/t10/domain/NumeroUtilsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/t10/src/test/java/com/github/konojoao/poo/t10/domain/NumeroUtilsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t11/src/main/java/com/github/KonoJoao/poo/t11/armario.java" beforeDir="false" afterPath="$PROJECT_DIR$/t11/src/main/java/com/github/konojoao/poo/t11/armario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t11/src/main/java/com/github/KonoJoao/poo/t11/cadeira.java" beforeDir="false" afterPath="$PROJECT_DIR$/t11/src/main/java/com/github/konojoao/poo/t11/cadeira.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t11/src/main/java/com/github/KonoJoao/poo/t11/carne.java" beforeDir="false" afterPath="$PROJECT_DIR$/t11/src/main/java/com/github/konojoao/poo/t11/carne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t11/src/main/java/com/github/KonoJoao/poo/t11/casa.java" beforeDir="false" afterPath="$PROJECT_DIR$/t11/src/main/java/com/github/konojoao/poo/t11/casa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t11/src/main/java/com/github/KonoJoao/poo/t11/data.java" beforeDir="false" afterPath="$PROJECT_DIR$/t11/src/main/java/com/github/konojoao/poo/t11/data.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t11/src/main/java/com/github/KonoJoao/poo/t11/florestas.java" beforeDir="false" afterPath="$PROJECT_DIR$/t11/src/main/java/com/github/konojoao/poo/t11/florestas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t11/src/main/java/com/github/KonoJoao/poo/t11/frase.java" beforeDir="false" afterPath="$PROJECT_DIR$/t11/src/main/java/com/github/konojoao/poo/t11/frase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t11/src/main/java/com/github/KonoJoao/poo/t11/janela1.java" beforeDir="false" afterPath="$PROJECT_DIR$/t11/src/main/java/com/github/konojoao/poo/t11/janela1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t11/src/main/java/com/github/KonoJoao/poo/t11/janela2.java" beforeDir="false" afterPath="$PROJECT_DIR$/t11/src/main/java/com/github/konojoao/poo/t11/janela2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t11/src/main/java/com/github/KonoJoao/poo/t11/lanchonete.java" beforeDir="false" afterPath="$PROJECT_DIR$/t11/src/main/java/com/github/konojoao/poo/t11/lanchonete.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t11/src/main/java/com/github/KonoJoao/poo/t11/preco.java" beforeDir="false" afterPath="$PROJECT_DIR$/t11/src/main/java/com/github/konojoao/poo/t11/preco.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t11/src/test/java/com/github/KonoJoao/poo/t/domain/CalendarioTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/t11/src/test/java/com/github/konojoao/poo/t/domain/CalendarioTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t11/src/test/java/com/github/KonoJoao/poo/t/domain/NumeroUtilsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/t11/src/test/java/com/github/konojoao/poo/t/domain/NumeroUtilsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t11/src/test/java/com/github/KonoJoao/poo/t11/domain/CalendarioTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/t11/src/test/java/com/github/konojoao/poo/t11/domain/CalendarioTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t11/src/test/java/com/github/KonoJoao/poo/t11/domain/NumeroUtilsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/t11/src/test/java/com/github/konojoao/poo/t11/domain/NumeroUtilsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,14 +30,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/joaov/OneDrive/Documentos/Cod3gos/poo-2023-01&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TODO_SCOPE": "All Places",
+    "last_opened_file_path": "C:/Users/joaov/OneDrive/Documentos/Cod3gos/poo-2023-01",
+    "settings.editor.selected.configurable": "project.propCompiler"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "GitIgnore"
+    ]
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
