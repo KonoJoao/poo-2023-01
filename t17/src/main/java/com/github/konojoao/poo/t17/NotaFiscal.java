@@ -12,3 +12,4 @@ public class NotaFiscal {
         System.out.println("quantidade de itens invalida");
     }
 }
+}

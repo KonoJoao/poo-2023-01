@@ -11,19 +11,21 @@ public class Avaliacao {
         this.provas.add(new Prova());
     }
 
-    public void adicionarQuestoes(int quantidade){
-        for(int i=0;i<quantidade;i++){
+    public void adicionarQuestoes(int quantidadeQuestoes){
+        for(int i=0;i<quantidadeQuestoes;i++){
             this.questoes.add(new Questao());
         }
     }
-
-    public void adicionarProvas(int quantidade){
-        for(int i=0;i<quantidade;i++){
+    ;;;;;;;;;;;;;;;;;;;;;
+    public void adicionarProvas(int quantidadeProvas){
+        for(int i=0;i<quantidadeProvas;i++){
             this.provas.add(new Prova());
         }
     }
 
     public void verEnunciado(int numeroDaQuestao){
-        System.out.println(this.questoes.get[numeroDaQuestao].getEnunciado);
+        String enunciado = new String();
+        enunciado = this.questoes.get(numeroDaQuestao).getEnunciado();
+        System.out.println(enunciado);
     }
 }
