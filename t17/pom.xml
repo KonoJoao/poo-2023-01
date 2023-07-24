@@ -11,7 +11,7 @@
         <maven.compiler.target>${java.version}</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
-        <project.mainClass>com.github.konojoao.poo.t.application.console.ProgramaCalendario</project.mainClass>
+        <project.mainClass>com.github.konojoao.poo.t17.application.console.ProgramaCalendario</project.mainClass>
 
         <tools.dir>/tools</tools.dir>
 

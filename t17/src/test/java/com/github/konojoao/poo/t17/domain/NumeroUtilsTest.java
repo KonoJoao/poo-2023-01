@@ -4,7 +4,7 @@
  * Fábio Nogueira de Lucena
  */
 
-package com.github.konojoao.poo.t.domain;
+package com.github.konojoao.poo.t17.domain;
 
 import org.junit.jupiter.api.Test;
 
