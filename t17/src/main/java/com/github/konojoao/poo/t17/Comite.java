@@ -2,14 +2,13 @@ package com.github.konojoao.poo.t17;
 
 import java.util.ArrayList;
 
-import com.github.konojoao.poo.t17.PessoaParticipanteDeComite;
-
 public class Comite {
     private ArrayList<PessoaParticipanteDeComite> membros;
     private ArrayList<PessoaParticipanteDeComite> presidentes;
 
     public void adicionarMembro(PessoaParticipanteDeComite novaPessoa){
-        if(novaPesssoa.retornarSituacao() == true){
+        Boolean flag = novaPessoa.retornarSituacao();
+        if(flag){
             this.presidentes.add(novaPessoa);
         } else {
             this.membros.add(novaPessoa);

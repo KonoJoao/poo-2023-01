@@ -11,7 +11,6 @@ public class Prova {
     public Prova(){
         this.respostas.add(new Resposta());
         Scanner scanner = new Scanner(System.in);
-        this.alunoCorrespondente = scanner.nextLine();
         this.descricaoProva = scanner.nextLine();
     }
 
