@@ -1,11 +1,10 @@
-package com.github.konojoao.poo.t18;
 
 public class Lance{
     private Posicao posicao;
     private Peca peca;
 
-    public Lance(Posicao posicao, Peca peca){
-        this.posicao = posicao;
+    public Lance(String inicio, String pFinal, Peca peca){
+        this.posicao = new Posicao(inicio, pFinal);
         this.peca = peca;
     }
 
@@ -25,11 +24,8 @@ public class Lance{
         this.peca = peca;
     }
 
-    public boolean equals(Lance lance){
-        return this.posicao.equals(lance.getPosicao()) && this.peca.equals(lance.getPeca());
-    }
 
     public String toString(){
-        return "Posicao: " + this.posicao.posicaoInicial + " - " + this.posicao.posicaoFinal + " Peca: " + this.peca;
+        return "Posicao de saida: " + this.posicao.retornarPosicaoInicial() + " - Posicao de chegada: " + this.posicao.retornarPosicaoFinal() + " - Peca: " + this.peca.returnNome();
     }
 }

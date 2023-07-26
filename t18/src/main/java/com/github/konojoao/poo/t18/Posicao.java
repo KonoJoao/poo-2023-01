@@ -1,4 +1,3 @@
-package com.github.konojoao.poo.t18;
 
 public class Posicao{
     private String posicaoInicial;
@@ -8,7 +7,15 @@ public class Posicao{
     this.posicaoFinal = posicaoFinalParametro;
     this.posicaoInicial = posicaoInicialParametro;
     }
-    public String toString(){
-        return "Linha: " + this.linha + " Coluna: " + this.coluna;
+//    public String toString(){
+//        return "Linha: " + this.posicaoInicial + " Coluna: " + this.posicaoFinal;
+//    }
+
+    public String retornarPosicaoInicial(){
+        return this.posicaoInicial;
+    }
+
+    public String retornarPosicaoFinal(){
+        return this.posicaoFinal;
     }
 }
