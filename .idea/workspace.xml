@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8004376-4b00-4688-89df-7c0e21520dce" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/t17/src/main/java/com/github/konojoao/poo/t17/Memoria.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/t17/src/test/java/com/github/konojoao/poo/t/domain/CalendarioTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/t17/src/test/java/com/github/konojoao/poo/t/domain/NumeroUtilsTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +39,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "TODO_SCOPE": "All Places",
     "last_opened_file_path": "C:/Users/joaov/OneDrive/Documentos/Cod3gos/poo-2023-01",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "project.propCompiler"
   },
   "keyToStringList": {
