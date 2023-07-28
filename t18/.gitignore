@@ -35,6 +35,7 @@ jpaserver_derby_files
 
 ### Java ###
 *.class
+.class
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
