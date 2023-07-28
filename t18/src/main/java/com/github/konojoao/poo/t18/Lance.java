@@ -1,10 +1,12 @@
 
 public class Lance{
     private Posicao posicao;
+    private Jogador jogador;
     private Peca peca;
 
-    public Lance(String inicio, String pFinal, Peca peca){
+    public Lance(String inicio, String pFinal, Peca peca, Jogador jogadorCorrespondente){
         this.posicao = new Posicao(inicio, pFinal);
+        this.jogador = jogadorCorrespondente;
         this.peca = peca;
     }
 
@@ -26,6 +28,6 @@ public class Lance{
 
 
     public String toString(){
-        return "Posicao de saida: " + this.posicao.retornarPosicaoInicial() + " - Posicao de chegada: " + this.posicao.retornarPosicaoFinal() + " - Peca: " + this.peca.returnNome();
+        return "Jogador: " + this.jogador.getNome() + " - Posicao de saida: " + this.posicao.retornarPosicaoInicial() + " - Posicao de chegada: " + this.posicao.retornarPosicaoFinal() + " - Peca: " + this.peca.returnNome();
     }
 }

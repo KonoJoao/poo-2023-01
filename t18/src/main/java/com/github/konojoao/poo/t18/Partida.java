@@ -11,14 +11,21 @@ public class Partida{
         this.jogador2 = new Jogador(j2);
     }
 
-    public void adicionarLance(Posicao posicao, String nomePeca){
-        this.lances.add(new Lance(posicao.retornarPosicaoInicial(), posicao.retornarPosicaoFinal(), new Peca(nomePeca)));
-       // this.lances.add(new Lance(/*posicao, new Peca(nomePeca)*/));
+    public void adicionarLance(Posicao posicao, String nomePeca, int flag){
+        switch(flag){
+            case 1:
+            this.lances.add(new Lance(posicao.retornarPosicaoInicial(), posicao.retornarPosicaoFinal(), new Peca(nomePeca), new Jogador(this.jogador1.getNome())));
+            break;
+            case 2:
+            this.lances.add(new Lance(posicao.retornarPosicaoInicial(), posicao.retornarPosicaoFinal(), new Peca(nomePeca), new Jogador(this.jogador1.getNome())));
+            break;
+        }
+
     }
 
     public void imprimirJogadas(){
-        for(Lance lance : this.lances){
-            System.out.println(lances.toString());
+        for(int i = 0; i<this.lances.size();i++){
+            System.out.println(this.lances.get(i).toString() + "\n");
         }
     }
 

@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8004376-4b00-4688-89df-7c0e21520dce" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/t18/src/main/java/com/github/konojoao/poo/t18/Jogador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/t18/src/main/java/com/github/konojoao/poo/t18/Lance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/t18/src/main/java/com/github/konojoao/poo/t18/Partida.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/t18/src/main/java/com/github/konojoao/poo/t18/PartidaImortal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/t18/src/main/java/com/github/konojoao/poo/t18/Peca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/t18/src/main/java/com/github/konojoao/poo/t18/Posicao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t18/src/test/java/com/github/konojoao/poo/t/domain/CalendarioTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/t18/src/test/java/com/github/konojoao/poo/t18/domain/CalendarioTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t18/src/test/java/com/github/konojoao/poo/t/domain/NumeroUtilsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/t18/src/test/java/com/github/konojoao/poo/t18/domain/NumeroUtilsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t19/src/test/java/com/github/konojoao/poo/t/domain/CalendarioTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/t19/src/test/java/com/github/konojoao/poo/t19/domain/CalendarioTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t19/src/test/java/com/github/konojoao/poo/t/domain/NumeroUtilsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/t19/src/test/java/com/github/konojoao/poo/t19/domain/NumeroUtilsTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
