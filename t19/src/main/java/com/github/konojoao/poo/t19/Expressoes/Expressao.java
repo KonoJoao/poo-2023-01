@@ -1,0 +1,11 @@
+package com.github.konojoao.poo.t19.expressoes;
+
+import java.util.ArrayList;
+
+public class Expressao {
+    private ArrayList<Elemento> elementos;
+
+    public Expressao(){
+        this.elemento.add(new Elemento());
+    }
+}
