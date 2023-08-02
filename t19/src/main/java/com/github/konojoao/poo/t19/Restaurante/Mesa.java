@@ -1,4 +1,4 @@
-package com.github.konojoao.poo.t19;
+package com.github.konojoao.poo.t19.restaurante;
 
 import java.util.ArrayList;
 

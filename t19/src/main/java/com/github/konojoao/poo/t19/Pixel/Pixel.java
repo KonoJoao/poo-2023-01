@@ -12,7 +12,7 @@ public class Pixel {
     public void retornarCor(){
         return this.cor;
     }
-        public void retornarPonto(){
+        public Ponto retornarPonto(){
         return this.ponto;
     }
 }

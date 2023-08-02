@@ -1,6 +1,7 @@
-package com.github.konojoao.poo.t19;
+package com.github.konojoao.poo.t19.mesas_ocupadas_com_data;
 
 import java.util.ArrayList;
+import java.util.Date;
 
 public class Pessoa {
     private ArrayList<Mesa> mesasOcupadas;
