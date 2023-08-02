@@ -4,11 +4,11 @@ public class Ponto {
     private int x;
     private int y;
 
-    public void pegarPontoX(){
+    public int pegarPontoX(){
         return x;
     }
 
-    public void pegarPontoY(){
-        return Y;
+    public int pegarPontoY(){
+        return y;
     }
 }

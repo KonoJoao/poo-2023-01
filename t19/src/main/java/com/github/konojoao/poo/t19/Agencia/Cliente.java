@@ -7,7 +7,7 @@ public class Cliente {
         this.nome = nome1;
     }
 
-    public void getNome(){
+    public String getNome(){
         return this.nome;
     }
 }

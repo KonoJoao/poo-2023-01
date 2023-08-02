@@ -6,7 +6,7 @@ public class Fila {
     private ArrayList<Cliente> clientes;
 
     public void adicionarCliente(){
-        this.clientes.add(new Cliente());
+        this.clientes.add(new Cliente("cliente"));
     }
 
     public void acharCliente(int identificacao){

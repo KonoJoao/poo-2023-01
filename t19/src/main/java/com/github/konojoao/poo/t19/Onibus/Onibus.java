@@ -3,7 +3,7 @@ package com.github.konojoao.poo.t19.onibus;
 import java.util.ArrayList;
 
 public class Onibus {
-    private ArrayList<Viagem> viagens = new ArraList<>();
+    private ArrayList<Viagem> viagens = new ArrayList<>();
 
     public Onibus(){
         this.viagens.add(new Viagem());

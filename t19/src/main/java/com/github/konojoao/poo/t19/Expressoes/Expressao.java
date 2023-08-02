@@ -6,6 +6,6 @@ public class Expressao {
     private ArrayList<Elemento> elementos;
 
     public Expressao(){
-        this.elemento.add(new Elemento());
+        this.elementos.add(new Elemento());
     }
 }
