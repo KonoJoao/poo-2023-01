@@ -2,12 +2,15 @@ package com.github.konojoao.poo.t19.mensagem;
 
 public class Objeto {
     
-
+    public void printarMensagemDeObjeto(Objeto novoObjeto){
+        novoObjeto.printarMensagemDeObjeto2(novoObjeto);
+    }
+    
     public void printarMensagem(){
-        System.out.println("Mensagem de Objeto");
+        System.out.println("Objeto printando mensagem de aluno de POO João Vitor Alves dos Reis");
     }
 
-    public void printarMensagemDeObjeto(Objeto novoObjeto){
+    public void printarMensagemDeObjeto2(Objeto novoObjeto){
         novoObjeto.printarMensagem();
     }
 }
