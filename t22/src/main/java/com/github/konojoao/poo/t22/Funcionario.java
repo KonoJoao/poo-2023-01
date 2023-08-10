@@ -13,5 +13,6 @@ public class Funcionario {
 
     public void realizarVenda(){
         this.vendas.add(new Venda());
+        System.out.println("implementado por Jo&atilde;o V-it-or A.l.ves d_os R_ei_+s")
     }
 }
